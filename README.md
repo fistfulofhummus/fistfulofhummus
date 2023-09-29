@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rfarah21
-- 👀 I’m interested in coding and photography.
-- 🌱 I’m currently learning Computer Science at the Lebanese Universtiy of Fanar
+- 🌱 SOC analyst and wanna be read teamer
 - 📫 How to reach me : Email: rkhalil444@gmail.com
 
 <!---
