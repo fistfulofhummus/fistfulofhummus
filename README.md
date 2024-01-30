@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rfarah21
-- 🌱 SOC analyst and wanna be read teamer
+- 🌱 SOC analyst and wanna be red teamer
 - 📫 How to reach me : Email: rkhalil444@gmail.com
 
 <!---
