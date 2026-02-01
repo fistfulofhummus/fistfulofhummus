@@ -37,38 +37,6 @@ Beyond traditional pentesting, my includes:
 - 👾 Malware Development
 ---
 
-## Projects
-
-### 🛰️ Demolitron C2
-A **cross-platform Command & Control framework** written in Go.  
-Designed to give red teamers a **lightweight, stealthy implant** for real-world engagements.
-
-🔗 https://github.com/fistfulofhummus/Demolitron_C2
-
----
-
-### 🤖 Shuffle SOAR
-A **fully cloud-hosted Shuffle SOAR deployment**, automating incident response across **IoT devices and applications**.
-
-🎥 Demo:  
-https://halfabowlofhummus.xyz/images/ShuffleDemo.mp4
-
----
-
-### 🐍 Venom Loader
-A **tiny shellcode loader** written in Go.  
-Built for experimentation and payload delivery research.
-
-🔗 https://github.com/fistfulofhummus/venomLoader
-
----
-
-### 🧱 Blackwall Threat Intelligence
-Threat intelligence collected from **multiple honeypots** I maintain.  
-Data is **continuously updated** and available for research.
-
-🔗 https://halfabowlofhummus.xyz/ThreatIntel.html
-
 
 ## 📬 Contact
 
@@ -79,6 +47,9 @@ Data is **continuously updated** and available for research.
   https://github.com/fistfulofhummus  
 
 - 📧 Email  
-  raymond.khalil99@gmail.com  
+  raymond.khalil99@gmail.com
+
+- 🌐 Website
+  https://halfabowlofhummus.xyz
 
 ---
