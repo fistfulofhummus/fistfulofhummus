@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2w4eTNqNjI3bXl5bXQ3eHp2NW82M3M1Z2F5cW9sNXZ6cG50aWw4ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://halfabowlofhummus.xyz/images/GitS.gif" width="100%" />
 </p>
 
 ## 🧠 About Me
