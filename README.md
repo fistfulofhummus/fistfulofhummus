@@ -1,7 +1,7 @@
 <!-- Cyberpunk / Purple Team GitHub Profile -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=%7C+Penetration+Tester+%7C+Security+Engineer%7C;Purple+Team+Operator " />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Penetration+Tester;Security+Engineer;Purple+Team+Operator " />
 </p>
 
 <p align="center">
