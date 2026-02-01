@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&color=40E0D0&center=true&vCenter=true&width=600&lines=Penetration+Tester;Security+Engineer;Purple+Team+Operator " />
+  <img src="https://typingsvg.vercel.app/api/svg?cursorStyle=block&lines=%5B%7B%22text%22%3A%22Penetration+Tester%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%23e01b24%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.05%7D%2C%7B%22text%22%3A%22Security+Engineer%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%2340e0d0%22%2C%22typingSpeed%22%3A0.2%2C%22deleteSpeed%22%3A0.04%7D%2C%7B%22text%22%3A%22Purple+Team+Operator%22%2C%22font%22%3A%22Roboto%22%2C%22color%22%3A%22%23c061cb%22%2C%22typingSpeed%22%3A0.25%2C%22deleteSpeed%22%3A0.05%7D%5D" />
 </p>
 
 <p align="center">
