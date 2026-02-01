@@ -18,7 +18,7 @@
 
 I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing**, **security engineering**, **python scripting** and **offenssive tooling development**.
 
-I’ve seen firsthand how security can look **good on paper** while in practice, it just **collapses** when the first rogue device slips into an environment. I prefer to go the extra step by **actively testing** and stress-checking IT/Security infrastructure to **expose and remedy real weaknesses**.
+I’ve seen firsthand how security can look **good on paper** while in practice, it just **collapses** when the first rogue device slips into an environment. I prefer to go the extra step by **actively testing** IT/Security infrastructure to **expose and remedy real weaknesses**.
 
 I’ve conducted security assessments across:
 
