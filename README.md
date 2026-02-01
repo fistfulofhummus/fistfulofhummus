@@ -14,6 +14,8 @@
   <img src="https://halfabowlofhummus.xyz/images/GitS.gif" width="100%" />
 </p>
 
+---
+
 # About Me
 
 I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing**, **security engineering**, **python scripting** and **offenssive tooling development**.
