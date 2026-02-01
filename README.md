@@ -16,11 +16,11 @@
   <img src="https://halfabowlofhummus.xyz/images/GitS.gif" width="100%" />
 </p>
 
-## 🧠 About Me
+# About Me
 
 I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing** and **security engineering**.
 
-My focus is operating in the **space between red and blue** — understanding how adversaries actually behave, then using that knowledge to improve **detection, response, and resilience**.
+My focus is operating in the **space between red and blue** — understanding how adversaries actually behave, then using that knowledge to improve **detection, response, and a environments resiliance** to cyberatttacks.
 
 I’ve conducted security assessments across:
 
@@ -32,58 +32,12 @@ I’ve conducted security assessments across:
 Beyond traditional pentesting, my work includes:
 
 - 🔴 Adversary emulation  
-- 🟣 Purple team operations  
 - 🛡️ IDS / IPS engineering  
 - 🤖 SOAR automation  
 - 🎭 Social engineering  
-- 🚪 Physical penetration testing  
-
-📖 One of my favorite pentest stories:  
-👉 **[These aren't the Exploits You are Looking for …](Trusting-Tools.html)**
+- 🚪 Physical penetration testing  (I am decent with lockpicks)
 
 ---
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWk5aGxzbXN2Y3Z5dDU4bWR6b3ZqZ2ZsZ3lvdnlrN2c4c2h0aGZ4YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNQ03J5JxX6lva/giphy.gif" width="100%" />
-</p>
-
-## 🧰 Skills & Tools
-
-### 🔴 Penetration Testing
-- Web application testing  
-- Network penetration testing  
-- Mobile testing  
-- Cloud security assessments  
-
-### 🛠️ Tooling
-- Burp Suite  
-- Metasploit  
-- Nmap  
-- Wireshark  
-
-### 🧪 Purple Team / Defensive
-- IDS / IPS deployment  
-- Detection validation  
-- Alert tuning & noise reduction  
-- SOAR implementation  
-- SOC operations  
-
-### 💻 Languages
-- Python  
-- Bash  
-- Go  
-
-### 📜 Certifications
-- CrowdStrike **CCFA**  
-- CrowdStrike **CCFR**  
-- CrowdStrike **CCFH**  
-- **OSCP** *(In Progress)*  
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWZ6ZzF5ZmJ3b3J3ZHRtZzRudnI2N2V5MWhsZHV4dnV4N3Vnd3A5dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" />
-</p>
 
 ## 🚀 Projects
 
@@ -115,25 +69,8 @@ Built for experimentation and payload delivery research.
 Threat intelligence collected from **multiple honeypots** I maintain.  
 Data is **continuously updated** and available for research.
 
-📖 `ThreatIntel.html`
+🔗 https://halfabowlofhummus.xyz/ThreatIntel.html
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJ2c2J0ZWp6Z3l4Z2lvdW9mYm9iNnh3aDg4cmZtaG9mczI0dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26ufdipQqU2lhNA4g/giphy.gif" width="100%" />
-</p>
-
-## 🟣 Purple Team Philosophy
-
-- Simulate real adversaries  
-- Validate detections continuously  
-- Reduce false positives  
-- Increase signal fidelity  
-- Measure outcomes, not alerts  
-
-> *If it doesn’t improve detection or resilience, it’s just noise.*
-
----
 
 ## 📬 Contact
 
@@ -147,7 +84,3 @@ Data is **continuously updated** and available for research.
   raymond.khalil99@gmail.com  
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1500&color=40E0D0&center=true&vCenter=true&width=600&lines=Attack+with+Purpose.;Defend+with+Context.;Think+Purple." />
-</p>
