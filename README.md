@@ -16,9 +16,9 @@
 
 # About Me
 
-I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing** and **security engineering**.
+I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing**, **security engineering**, **python scripting** and **offenssive tooling development**.
 
-I've been in environments where real alerts get ignored and only **hopes and illusions** of security were being sold. I like to go the extra step and actually test the current setup being used.
+I’ve seen firsthand how security can look **good on paper** while in practice, it just **collapses** when the first rogue device slips into an environment. I prefer to go the extra step by **actively testing** and stress-checking IT/Security infrastructure to **expose and remedy real weaknesses**.
 
 I’ve conducted security assessments across:
 
@@ -27,14 +27,14 @@ I’ve conducted security assessments across:
 - 📱 Mobile Platforms  
 - ☁️ Cloud Environments  
 
-Beyond traditional pentesting, my work includes:
+Beyond traditional pentesting, my includes:
 
 - 🔴 Adversary emulation  
 - 🛡️ IDS / IPS engineering  
 - 🤖 SOAR automation  
 - 🎭 Social engineering  
 - 🚪 Physical penetration testing  (I am decent with lockpicks)
-
+- 👾 Malware Development
 ---
 
 ## Projects
