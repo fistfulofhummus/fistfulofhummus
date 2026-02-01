@@ -42,18 +42,12 @@ My activities can be summed up by:
 
 ## 📬 Contact
 
-- 💼 LinkedIn  
-  https://www.linkedin.com/in/raymond-khalil-36b335227  
+- 💼 LinkedIn: https://www.linkedin.com/in/raymond-khalil-36b335227  
 
-- 💻 GitHub  
-  https://github.com/fistfulofhummus  
+- 💻 GitHub: https://github.com/fistfulofhummus  
 
-- 📧 Email  
-  raymond.khalil99@gmail.com
+- 📧 Email: raymond.khalil99@gmail.com
 
-- 🌐 Website
-https://halfabowlofhummus.xyz
-
-a
+- 🌐 Website: https://halfabowlofhummus.xyz
 
 ---
