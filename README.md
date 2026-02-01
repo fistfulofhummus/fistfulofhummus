@@ -20,14 +20,16 @@ I’m a cybersecurity professional with **3+ years of experience**, primarily in
 
 I’ve seen firsthand how security can look **good on paper** while in practice, it just **collapses** when the first rogue device slips into an environment. I prefer to go the extra step by **actively testing** IT/Security infrastructure to **expose and remedy real weaknesses**.
 
+---
 I’ve conducted security assessments across:
 
 - 🌐 Web Apps
 - 🖧 Networks *(AD my beloved)*  
 - 📱 Mobile Platforms  
 - ☁️ Cloud Environments  
+---
 
-Beyond traditional pentesting, my includes:
+My activities can be summed up by:
 
 - 🔴 Adversary emulation  
 - 🛡️ IDS / IPS engineering  
