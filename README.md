@@ -20,12 +20,12 @@
 
 I’m a cybersecurity professional with **3+ years of experience**, primarily in **SOC environments**, specializing in **penetration testing** and **security engineering**.
 
-My focus is operating in the **space between red and blue** — understanding how adversaries actually behave, then using that knowledge to improve **detection, response, and a environments resiliance** to cyberatttacks.
+I've been in environments where real alerts get ignored and only **hopes and illusions** of security were being sold. I like to go the extra step and actually test the current setup being used.
 
 I’ve conducted security assessments across:
 
-- 🌐 Web Applications  
-- 🖧 Networks *(my favorite)*  
+- 🌐 Web Apps
+- 🖧 Networks *(AD my beloved)*  
 - 📱 Mobile Platforms  
 - ☁️ Cloud Environments  
 
