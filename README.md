@@ -51,7 +51,7 @@ My activities can be summed up by:
 - 📧 Email  
   raymond.khalil99@gmail.com
 
-- 🌐 Website
+- 🌐 Website 
   https://halfabowlofhummus.xyz
 
 ---
