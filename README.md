@@ -37,7 +37,7 @@ Beyond traditional pentesting, my work includes:
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### 🛰️ Demolitron C2
 A **cross-platform Command & Control framework** written in Go.  
