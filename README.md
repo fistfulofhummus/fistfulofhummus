@@ -42,7 +42,7 @@ My activities can be summed up by:
 ---
 
 
-## 📬 Contact
+## 📬 Links
 
 - 💼 LinkedIn: https://www.linkedin.com/in/raymond-khalil-36b335227  
 
